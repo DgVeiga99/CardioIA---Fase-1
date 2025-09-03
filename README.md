@@ -65,7 +65,7 @@ Na prática clínica, grande parte do conhecimento está em **formato textual**.
 ## 🫀 Parte 3 – Dados Visuais (Visão Computacional)  
 
 📂 Local: [`/images`](./images)  
-🔗 Link público: *[inserir link do Google Drive/OneDrive]*  
+🔗 Link público: *[https://drive.google.com/drive/folders/1UucyWetEGLtsgrS449t7bsdLOHUovVlh?usp=sharing]*  
 
 As imagens foram coletadas da base pública **Mendeley Data**, reconhecida na comunidade científica. Essa base apresenta quatro tipos de pacientes:  
 
